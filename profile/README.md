@@ -1,12 +1,9 @@
-## Hi there 👋
+<p align="center" width=100%>
+  <img width=40% src="https://github.com/ArchMC-Development/.github/blob/main/profile/Full-RuleYourOwnGame_Trimmed.png?raw=true">
+</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  # 
+The Github Organization for ArchMC, ~~one of~~ _the_ biggest cracked server in North America. Learn more about us [here](https://www.arch.lol/about-us).
+<br>
+<br>
+You may eventually have some public repositories in the future, but for now there is not much to see here. Dev blog coming soon!
